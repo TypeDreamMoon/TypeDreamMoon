@@ -1,7 +1,5 @@
-# Hello World
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HELLO WORLD&fontSize=90&fontAlign=50&fontAlignY=30&desc=TypeDreamMoon&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HELLO WORLD!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Type Dream Moon&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
 
 
@@ -27,8 +25,3 @@
 
 
 <img align="center" src="https://skillicons.dev/icons?i=TypeDreamMoon&theme=light" />
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=DreamMoon 2025&fontSize=50&fontAlign=50&fontAlignY=70&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
