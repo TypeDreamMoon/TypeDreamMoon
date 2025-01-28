@@ -1,9 +1,3 @@
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HELLO WORLD!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Type Dream Moon&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
-</p>
-
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true%C2%A0%C2%A0%E7%9C%9F&vCenter=true%C2%A0%C2%A0%E7%9C%9F&multiline=true&repeat=true%C2%A0%C2%A0%E7%9C%9F&random=true%C2%A0%C2%A0%E7%9C%9F&width=435&lines=Dreams+linger+in+bamboo%2C+moonlight+gleams%2C;Whispers+weave+through+silent+streams." />
 </p>
