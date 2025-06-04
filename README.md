@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei+UI&size=15&duration=2500&pause=100&center=true%C2%A0%C2%A0%E7%9C%9F&vCenter=true%C2%A0%C2%A0%E7%9C%9F&multiline=true&repeat=true%C2%A0%C2%A0%E7%9C%9F&random=true%C2%A0%C2%A0%E7%9C%9F&width=435&lines=%E6%A2%A6%E9%A9%BB%E7%AB%B9%E6%9E%97%E6%9C%88%E5%85%89%E6%98%8E%EF%BC%8C;%E7%BB%86%E8%AF%AD%E9%9A%8F%E9%A3%8E%E5%85%A5%E5%A4%9C%E6%B8%85%E3%80%82)" />
+<img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei+UI&size=15&duration=2500&pause=100&center=true%C2%A0%C2%A0%E7%9C%9F&vCenter=true%C2%A0%C2%A0%E7%9C%9F&multiline=true&repeat=true%C2%A0%C2%A0%E7%9C%9F&random=true%C2%A0%C2%A0%E7%9C%9F&width=435&lines=%E6%A2%A6%E9%A9%BB%E7%AB%B9%E6%9E%97%E6%9C%88%E5%85%89%E6%98%8E%EF%BC%8C;%E7%BB%86%E8%AF%AD%E9%9A%8F%E9%A3%8E%E5%85%A5%E5%A4%9C%E6%B8%85%E3%80%82" />
 </p>
 
 <p align="center">
