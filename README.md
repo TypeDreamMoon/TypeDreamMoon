@@ -1,18 +1,27 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true%C2%A0%C2%A0%E7%9C%9F&vCenter=true%C2%A0%C2%A0%E7%9C%9F&multiline=true&repeat=true%C2%A0%C2%A0%E7%9C%9F&random=true%C2%A0%C2%A0%E7%9C%9F&width=435&lines=Dreams+linger+in+bamboo%2C+moonlight+gleams%2C;Whispers+weave+through+silent+streams." />
-</p>
+<!-- 欢迎语 -->
+<h2 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ 欢迎来到 TypeDreamMoon 的主页 ✨</h2>
+<h3 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ Welcome to the homepage of TypeDreamMoon. ✨</h3>
 
-<p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=TypeDreamMoon&theme=tokyonight&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
-</p>
+<div align="center" style="background-color:#1a1a2e;padding:30px;border-radius:20px;max-width:920px;margin:40px auto;">
+  <table style="border-spacing:30px;">
+    <tr>
+      <td>
+        <!-- 左侧第一张图 -->
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=TypeDreamMoon&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" style="border-radius:15px;box-shadow:0 6px 12px rgba(0,0,0,0.5);"  />
+      </td>
+       <!-- 右侧语言图（跨两行居中） -->
+      <td rowspan="2" valign="middle">
+        <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeDreamMoon&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6" style="border-radius:15px;box-shadow:0 6px 12px rgba(0,0,0,0.5);"  />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=TypeDreamMoon&theme=tokyonight&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" style="border-radius:15px;box-shadow:0 6px 12px rgba(0,0,0,0.5);"  />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=TypeDreamMoon&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeDreamMoon&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6" /></td>
-  </tr>
-</table>
-
-<p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TypeDreamMoon&theme=github-compact&hide_border=true&area=true" />
-</p>
+<div align="center" style="margin-top:40px;">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TypeDreamMoon&theme=github-compact&hide_border=true&area=true" style="border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.3);"  />
+</div>
