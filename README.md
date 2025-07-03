@@ -5,9 +5,10 @@
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TypeDreamMoon&theme=tokyonight&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
 </p>
-
+<figure class="half">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=TypeDreamMoon&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeDreamMoon&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6" />
+</figure>
 
 <p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TypeDreamMoon&theme=github-compact&hide_border=true&area=true" />
