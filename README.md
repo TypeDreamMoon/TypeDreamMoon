@@ -6,6 +6,8 @@
 <h2 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ 欢迎来到 TypeDreamMoon 的主页 ✨</h2>
 <h3 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ Welcome to the homepage of TypeDreamMoon. ✨</h3>
 
+---
+
 <div align="center" style="background-color:#1a1a2e;padding:30px;border-radius:20px;max-width:920px;margin:40px auto;">
   <table style="border-spacing:30px;">
     <tr>
