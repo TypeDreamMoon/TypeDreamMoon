@@ -1,3 +1,11 @@
+<div align="center" style="background-color:#0b0d17;padding:30px;border-radius:15px;margin-bottom:40px;">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&multiline=true&repeat=true&random=true&width=500&lines=Dreams+linger+in+bamboo%2C+moonlight+gleams%2C;Whispers+weave+through+silent+streams." 
+    alt="Typing SVG"
+    style="max-width:100%;"
+  />
+</div>
+
 <!-- 欢迎语 -->
 <h2 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ 欢迎来到 TypeDreamMoon 的主页 ✨</h2>
 <h3 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ Welcome to the homepage of TypeDreamMoon. ✨</h3>
