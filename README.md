@@ -1,9 +1,5 @@
 <div align="center" style="background-color:#0b0d17;padding:30px;border-radius:15px;margin-bottom:40px;">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&multiline=true&repeat=true&random=true&width=500&lines=Dreams+linger+in+bamboo%2C+moonlight+gleams%2C;Whispers+weave+through+silent+streams." 
-    alt="Typing SVG"
-    style="max-width:100%;"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C5BB&width=435&lines=Code+weaves+dreams%2C+light+and+shadow+shape+worlds." alt="Typing SVG" />
 </div>
 
 <!-- 欢迎语 -->
