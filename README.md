@@ -8,26 +8,6 @@
 
 ---
 
-<div align="center" style="background-color:#1a1a2e;padding:30px;border-radius:20px;max-width:920px;margin:40px auto;">
-  <table style="border-spacing:30px;">
-    <tr>
-      <td>
-        <!-- 左侧第一张图 -->
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=TypeDreamMoon&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" style="border-radius:15px;box-shadow:0 6px 12px rgba(0,0,0,0.5);"  />
-      </td>
-       <!-- 右侧语言图（跨两行居中） -->
-      <td rowspan="2" valign="middle">
-        <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeDreamMoon&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6" style="border-radius:15px;box-shadow:0 6px 12px rgba(0,0,0,0.5);"  />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=TypeDreamMoon&theme=tokyonight&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" style="border-radius:15px;box-shadow:0 6px 12px rgba(0,0,0,0.5);"  />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center" style="margin-top:40px;">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TypeDreamMoon&theme=github-compact&hide_border=true&area=true" style="border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.3);"  />
 </div>
