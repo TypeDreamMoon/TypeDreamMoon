@@ -14,7 +14,7 @@
 仓库里既有偏“生产力”的工具，也有偏“把想法落地”的实验性项目：从字幕/歌词解析、到交互与任务系统、再到编辑器与运行时插件。
 
 - 方向：UE引擎开发、UE渲染管线开发、UE工具链开发、UEGameplay开发、C++20、渲染/动画相关尝试、Windows 桌面工具
-- 关键词：*tools · plugins · gamedev · workflow*
+- 关键词：*engine · rendering · tools · plugins · gamedev · workflow*
 
 ---
 
