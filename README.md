@@ -3,7 +3,6 @@
 </div>
 
 <!-- 欢迎语 -->
-<h2 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ 欢迎来到 TypeDreamMoon 的主页 ✨</h2>
 <h3 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ Welcome to the homepage of TypeDreamMoon. ✨</h3>
 
 ---
