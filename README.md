@@ -1,9 +1,9 @@
-<div align="center" style="background-color:#0b0d17;padding:30px;border-radius:15px;margin-bottom:40px;">
+<div align="center" style="background-color:#0b0d17;padding:30px;border-radius:15px;margin-bottom:10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C5BB&width=435&lines=Code+weaves+dreams%2C+light+and+shadow+shape+worlds." alt="Typing SVG" />
 </div>
 
 <!-- 欢迎语 -->
-<h3 align="center" style="font-weight:600;color:#fafafa;margin-top:-20px;">✨ Welcome to the homepage of TypeDreamMoon. ✨</h3>
+<h3 align="center" style="font-weight:600;color:#fafafa;margin-top:-10px;">✨ Welcome to the homepage of TypeDreamMoon. ✨</h3>
 
 ---
 
