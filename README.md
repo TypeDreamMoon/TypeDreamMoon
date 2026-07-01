@@ -21,8 +21,8 @@
 - **C++ / C++20**：UE 插件、库、性能与工程化实践
 - **Unreal Engine**：引擎、渲染、Gameplay 系统、工具链、UI、Sequencer、平台特性集成
 - **C# / WinUI3**：Windows 桌面工具
-- **TypeScript / Web **：前端与站点相关项目
-- **Go / Redis / SQL **：后端与数据库项目
+- **TypeScript / Web**：前端与站点相关项目
+- **Go / Redis / SQL**：后端与数据库项目
 
 ---
 
