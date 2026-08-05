@@ -24,6 +24,7 @@
 - **TypeScript / Web**：前端与站点相关项目
 - **Go / Redis / SQL**：后端与数据库项目
 - **Dart / Flutter**: 多端应用开发
+- **QT / QML / C++**: 程序开发
 
 ---
 
