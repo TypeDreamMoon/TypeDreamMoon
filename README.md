@@ -3,14 +3,6 @@
 
 ---
 
-## Activity
-
-<div align="center" style="margin-top:40px;">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TypeDreamMoon&theme=github-compact&hide_border=true&area=true" style="border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.3);"  />
-</div>
-
----
-
 
 ##  Contact
 
