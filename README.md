@@ -3,10 +3,9 @@
 
 ---
 
+##  Contact Me
 
-##  Contact
-
-- GitHub： https://github.com/TypeDreamMoon
-- EMail: 1067823908@qq.com
+- EMail: 1067823908@qq.com / TypeDreamMoon@gmail.com
 - QQ: 1078923908
-- 个人工作室: https://64hz.cn
+- Studio: [64Hz](https://64hz.cn) | Studio Github: [hertz-games](https://github.com/hertz-games)
+- X: [@Type_Dream_Moon](https://x.com/type_dream_moon)
