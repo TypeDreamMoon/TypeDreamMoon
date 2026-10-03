@@ -6,6 +6,6 @@
 ##  Contact Me
 
 - EMail: 1067823908@qq.com / TypeDreamMoon@gmail.com
-- QQ: 1078923908
+- QQ: 10678923908
 - Studio: [64Hz](https://64hz.cn) | Studio Github: [hertz-games](https://github.com/hertz-games)
 - X: [@Type_Dream_Moon](https://x.com/type_dream_moon)
