@@ -13,3 +13,4 @@
 - QQ: 10678923908
 - Studio: [64Hz](https://64hz.cn) | Studio Github: [hertz-games](https://github.com/hertz-games)
 - X: [@Type_Dream_Moon](https://x.com/type_dream_moon)
+- Bilibili: [TypeDreamMoon](https://space.bilibili.com/1115826412)
